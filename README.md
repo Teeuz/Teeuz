@@ -8,7 +8,7 @@
 <h1>  💫 SOBRE MIM: </h1>
 <img style="margin-top: 300px;" class="mt200" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="350" width="400px" align="right" > <br>
 
-- **Um Entusiasta Estudante Engenheiro de Desenvolvimento em Software dedicado à qualidade e confiabilidade por meio de testes e automações eficazes. Apaixonado por resolução de problemas. Compromisso com o aprendizado contínuo e com as tendências do setor.**
+- **Um Entusiasta Estudante Engenheiro de desenvolvimento em Software dedicado à qualidade e confiabilidade por meio de testes e automações eficazes. Apaixonado por resolução de problemas. Compromisso com o aprendizado contínuo e com as tendências do setor.**
 <!-- - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> I’m currently learning **SDET** -->
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> **Atualmente estou me aperfeiçoando em Oracle, Automação, C#**.
 
@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="110" height="30" /></a>
   <img src="https://i.imgur.com/O7n4Iz9.gif" width="0"  align="center" /></a>
 
-- ⚡  Fato engraçado sobre mim: **Dono da Pagina Trunks Brasil no orkut**<code><img src="https://media.giphy.com/media/XAsl7JdlyTJMA/giphy.gif" alt="vscode" width="60" /></code>
+- ⚡  Fato engraçado sobre mim: **Dono da Pagina Trunks Brasil no orkut**
 
 
 <h4 align="left" ><br>
